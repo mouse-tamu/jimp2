@@ -19,7 +19,7 @@ Exceptions to the license require written permission of the principal investigat
 
 The licensee has no ownership rights in the Jimp 2 software or in any copyrights for the Jimp 2 software or documentation through this license.
 
-Publications resulting from using Jimp 2<sup>1</sup> (the program for building, manipulating, and visualizing structures; and launching FENSKE-HALL, launching MOPLOT2, and visualizing their calculational results), FENSKE-HALL<sup>2-3</sup> (the program which performs the SCF calculation), and/or MOPLOT2<sup>4,/sup> (the program that creates the orbitals for visualization) programs in this package must cite the corresponding program.  The user takes full responsibility for proper licensing and referencing of any third party programs used in conjunction with Jimp 2.
+Publications resulting from using Jimp 2<sup>1</sup> (the program for building, manipulating, and visualizing structures; and launching FENSKE-HALL, launching MOPLOT2, and visualizing their calculational results), FENSKE-HALL<sup>2-3</sup> (the program which performs the SCF calculation), and/or MOPLOT2<sup>4</sup> (the program that creates the orbitals for visualization) programs in this package must cite the corresponding program.  The user takes full responsibility for proper licensing and referencing of any third party programs used in conjunction with Jimp 2.
 
 No guarantee is made that this program is bug-free or suitable for specific applications, and no liability is accepted for any limitations in the mathematical methods and algorithms used within the program.
 
