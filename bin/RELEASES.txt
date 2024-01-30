@@ -1,0 +1,24 @@
+
+Jimp 2 version 091 - May 19, 2006
+Last versions of Jimp 2 released.  
+A new version is out featuring Atom IDs, close confirmation, more natural defaults, and better UFF geometry optimization. UFF will now only change the positions of selected atoms and is more likely not to mess up by setting atom positions to NaN. See the changelog for more details.
+
+Jimp 2 version 089 - January 31, 2006
+Porting to alternative operating systems isn't going as smoothly as hoped, but in the mean time there have been a number of major improvements to Jimp 2. The most important changes are probably the ability to set defaults using similar scripting syntax as is used when setting properties, and a whole new object type that stores a view and is represented by a little camera icon. Currently defualts must be changed by hand by modifying 'autorun.ts'. As always, the change log has more details.
+
+Jimp 2 version 085 - December 22, 2005
+The source code has been documented using Doxygen. The documentation has been put in the downloads section, which requires agreeing to the license, because the source code could be extracted from it.
+This change isn't directly useful to users except for the implications towards future maintenance. School got in the way of my improving Jimp 2 in the last few months, but once I get back from the break, the problem of porting to other operating systems will be tackled.
+
+Jimp 2 version 084 - October 27, 2005
+Now selected atoms can be rotated. A small change, but an important one.
+
+Jimp 2 version 083 - October 17, 2005
+Version 083 of Jimp 2 has been released. Now you can draw over bonds to increase their bond order, add hydrogens, and selection of bonds has been fixed.
+
+Jimp 2 version 082 - October 12, 2005
+A new version of Jimp 2 has been released. The highlights of this new release are atom drawing and the ablility to find a likely geometry for the molecule through molecular mechanics (UFF). There have been a number of minor updates as well.
+
+Website Launch - August 02, 2005
+Jimp 2 released.
+
